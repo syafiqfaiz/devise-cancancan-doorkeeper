@@ -1,0 +1,5 @@
+{
+  "name": "devise-cancancan-doorkeeper",
+  "private": true,
+  "dependencies": {}
+}
